@@ -1,3 +1,3 @@
 # iMGO
 iM뱅크 Agentic Coding Challenge
-![IMGO 데모](./imgo영상.gif)
+<img src="https://github.com/kjchoi1997/iMGO/blob/main/imgodemo.gif">
